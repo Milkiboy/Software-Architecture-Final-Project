@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BookCommands/BookCommands.iml" filepath="$PROJECT_DIR$/BookCommands/BookCommands.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BookQueries/BookQueries.iml" filepath="$PROJECT_DIR$/BookQueries/BookQueries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BookQueries1/BookQueries (1).iml" filepath="$PROJECT_DIR$/BookQueries1/BookQueries (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Borrowings/Borrowings.iml" filepath="$PROJECT_DIR$/Borrowings/Borrowings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Client/Client.iml" filepath="$PROJECT_DIR$/Client/Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaServer/EurekaServer.iml" filepath="$PROJECT_DIR$/EurekaServer/EurekaServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaServer2/EurekaServer (1).iml" filepath="$PROJECT_DIR$/EurekaServer2/EurekaServer (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reviews/Reviews.iml" filepath="$PROJECT_DIR$/Reviews/Reviews.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SA Current Project.iml" filepath="$PROJECT_DIR$/.idea/SA Current Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ApiGateway/cloudgateway.iml" filepath="$PROJECT_DIR$/ApiGateway/cloudgateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConfigurationServer/configServer/configServer.iml" filepath="$PROJECT_DIR$/ConfigurationServer/configServer/configServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CustomerService/customers.iml" filepath="$PROJECT_DIR$/CustomerService/customers.iml" />
+    </modules>
+  </component>
+</project>

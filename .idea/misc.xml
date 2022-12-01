@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Reviews/Reviews/pom.xml" />
+        <option value="$PROJECT_DIR$/Borrowings/Borrowings/pom.xml" />
+        <option value="$PROJECT_DIR$/BookQueries/BookQueries/pom.xml" />
+        <option value="$PROJECT_DIR$/BookCommands/BookCommands/pom.xml" />
+        <option value="$PROJECT_DIR$/customersService/customersService/customersService/pom.xml" />
+        <option value="$PROJECT_DIR$/customersService/pom.xml" />
+        <option value="$PROJECT_DIR$/BookCommands/pom.xml" />
+        <option value="$PROJECT_DIR$/BookQueries/pom.xml" />
+        <option value="$PROJECT_DIR$/Borrowings/pom.xml" />
+        <option value="$PROJECT_DIR$/Reviews/pom.xml" />
+        <option value="$PROJECT_DIR$/CustomerService/pom.xml" />
+        <option value="$PROJECT_DIR$/OrderCommandService/pom.xml" />
+        <option value="$PROJECT_DIR$/OrderQueriesService/pom.xml" />
+        <option value="$PROJECT_DIR$/EurekaServer/pom.xml" />
+        <option value="$PROJECT_DIR$/EurekaServer1/EurekaServer/pom.xml" />
+        <option value="$PROJECT_DIR$/EurekaServer2/pom.xml" />
+        <option value="$PROJECT_DIR$/ApiGateway/pom.xml" />
+        <option value="$PROJECT_DIR$/ConfigurationServer/configServer/pom.xml" />
+        <option value="$PROJECT_DIR$/BookQueries1/pom.xml" />
+        <option value="$PROJECT_DIR$/Client/pom.xml" />
+        <option value="$PROJECT_DIR$/Client/Client/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>

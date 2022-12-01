@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="EurekaServer" />
+        <module name="BookQueries" />
+        <module name="Reviews" />
+        <module name="cloudgateway" />
+        <module name="EurekaServer (1)" />
+        <module name="configServer" />
+        <module name="BookQueries (1)" />
+        <module name="BookCommands" />
+        <module name="Borrowings" />
+        <module name="customers" />
+        <module name="Client" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="BookCommands" target="11" />
+      <module name="BookQueries" target="11" />
+      <module name="BookQueries (1)" target="11" />
+      <module name="Borrowings" target="11" />
+      <module name="Client" target="11" />
+      <module name="cloudgateway" target="11" />
+      <module name="configServer" target="17" />
+      <module name="customers" target="11" />
+      <module name="EurekaServer" target="11" />
+      <module name="EurekaServer (1)" target="11" />
+      <module name="OrderCommandService" target="11" />
+      <module name="OrderQueriesService" target="11" />
+      <module name="Reviews" target="11" />
+      <module name="SpringBootServlet" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="BookCommands" options="-parameters" />
+      <module name="BookQueries" options="-parameters" />
+      <module name="BookQueries (1)" options="-parameters" />
+      <module name="Borrowings" options="-parameters" />
+      <module name="Client" options="-parameters" />
+      <module name="EurekaServer" options="-parameters" />
+      <module name="EurekaServer (1)" options="-parameters" />
+      <module name="OrderCommandService" options="-parameters" />
+      <module name="OrderQueriesService" options="-parameters" />
+      <module name="Reviews" options="-parameters" />
+      <module name="cloudgateway" options="-parameters" />
+      <module name="configServer" options="-parameters" />
+      <module name="customers" options="-parameters" />
+    </option>
+  </component>
+</project>
